@@ -1,0 +1,530 @@
+ <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="portfolio__filter">
+                        <li class="active" data-filter="*">Todos</li>
+                        <li data-filter=".citroen">Citroen Jumper</li>
+                        <li data-filter=".mercedes">Mercedes Benz Sprinter</li>
+                        <li data-filter=".renault">Renault Master</li>
+                        <li data-filter=".hyundai">Hyundai H1</li>
+                        <!--<li data-filter=" .ecommerce">eCommerce</li>-->
+                    </ul>
+                </div>
+            </div>
+            <div class="row portfolio__gallery">
+                <div class="col-lg-4 col-md-6 col-sm-6 mix citroen">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/citroen1.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Citroen Jumper</h4>
+                            <!--<ul>
+                                <li>eCommerce</li>
+                                <li>Magento</li>
+                            </ul>-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix citroen">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/citroen2.jpeg">
+                            
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Citroen Jumper</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix citroen">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/citroen3.mp4">
+                            
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Citroen Jumper</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix citroen">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/citroen4.jpeg">
+                          
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Citroen Jumper</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesblanca1.jpeg">
+                          
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Blanca</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesblanca2.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Blanca</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesblanca3.jpeg">
+                          
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Blanca</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesblanca4.jpeg">
+                          
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Blanca</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesnegra1.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Negra</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesnegra2.jpeg">
+                            
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Negra</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesnegra3.jpeg">
+                          
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Negra</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix mercedes">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/mercedesnegra4.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Mercedes Benz Sprinter</h4>
+                            <ul>
+                                <li>Negra</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix renault">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/renault1.jpeg">
+                            <!--<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                                    class="fa fa-play"></i></a>-->
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Renault Master</h4>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 col-sm-6 mix renault">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/renault2.jpeg">
+                            <!--<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                                    class="fa fa-play"></i></a>-->
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Renault Master</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix renault">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/renault3.jpeg">
+                            <!--<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                                    class="fa fa-play"></i></a>-->
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Renault Master</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix renault">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/renault4.jpeg">
+                            <!--<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
+                                    class="fa fa-play"></i></a>-->
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Renault Master</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix hyundai">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/hyundai1.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Hyundai H1</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix hyundai">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/hyundai2.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Hyundai H1</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix hyundai">
+                    <div class="portfolio__item">
+                        <div class="portfolio__item__video set-bg" data-setbg="../Resource/img/portfolio/hyundai3.jpeg">
+                           
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Hyundai H1</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 mix hyundai">
+                    <div class="portfolio__item">
+                        <div class="" data-setbg="../Resource/img/portfolio/hyundai4.jpeg">
+                          
+                        </div>
+                        <div class="portfolio__item__text">
+                        <h4>Van's Hyundai H1</h4>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="pagination__option">
+                        <!--<a href="#" class="arrow__pagination left__arrow"><span class="arrow_left"></span> Prev</a>-->
+                       <!-- <a href="#" class="number__pagination">1</a>-->
+                        <a href="#" class="number__pagination">1</a>
+                        <!--<a href="#" class="arrow__pagination right__arrow">Next <span class="arrow_right"></span></a>-->
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="products">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <ul class="portfolio__filter">
+                            <li class="active" data-filter="*">Todos</li>
+                            <li data-filter=".citroen">Citroen Jumper</li>
+                            <li data-filter=".mercedes">Mercedes Benz Sprinter</li>
+                            <li data-filter=".renault">Renault Master</li>
+                            <li data-filter=".hyundai">Hyundai H1</li>
+                        </ul>
+                    </div>
+                </div>
+             
+                    <div class="row portfolio__gallery">
+                        <div class="col-lg-4 col-md-4 all  citroen">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/citroen1.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all  citroen">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/citroen2.jpeg" alt=""></a>
+                                <div class="down-content">
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all  citroen">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/citroen3.jpeg" alt=""></a>
+                                <div class="down-content">
+
+                                </div>
+                            </div>
+               
+                        </div>
+                        <div class="col-lg-4 col-md-4 all  citroen">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/citroen4.jpeg" alt=""></a>
+                                <div class="down-content">
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesblanca1.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesblanca2.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesblanca3.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesblanca4.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesnegra1.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesnegra2.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesnegra3.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all mercedes">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/mercedesnegra4.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all renault">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/renault1.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all renault">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/renault2.jpeg" alt=""></a>
+                                <div class="down-content">
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all renault">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/renault3.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all renault">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/renault4.jpeg" alt=""></a>
+                                <div class="down-content">
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 all hyundai">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/hyundai1.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all hyundai">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/hyundai2.jpeg" alt=""></a>
+                                <div class="down-content">
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-4 col-md-4 all hyundai">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/hyundai3.jpeg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 all hyundai">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="../Resource/img/portfolio/hyundai4.jpeg" alt=""></a>
+                                <div class="down-content">
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-4 col-md-4 all hyundai">
+                            <div class="portfolio__item">
+                                <a href="#"><img src="assets/images/PRODUCTOS/PRODUCTO 5/PRODUCTO5_5.jpg" alt=""></a>
+                                <div class="down-content">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        </div>
+        </div>
